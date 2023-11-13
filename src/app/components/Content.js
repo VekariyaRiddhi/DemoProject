@@ -22,7 +22,7 @@ const Content = () => {
   }, []);
 
   return (
-    <div className="lg:px-30 md:px-10">
+    <div className="lg:px-20 md:px-10 flex-1 xl:w-56 lg:w-40 md:w-full">
       <div className="prose">
         <p>{quote}</p>
         <button

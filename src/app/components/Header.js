@@ -1,7 +1,7 @@
 export default function Header() {
   return (
     <header className="max-h-24 p-4 bg-gray-500 bg-opacity-25 mb-10">
-      <div className="ml-8">
+      <div className="ml-14">
         <svg
           className="max-h-16 w-16"
           id="Logo_1"
